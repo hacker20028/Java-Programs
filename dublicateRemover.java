@@ -3,7 +3,7 @@ import java.util.*;
 public class dublicateRemover {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int[] arr = new int[10];
+        int[] arr = new int[10]; 
         int i = 0;
         int j = 0;
         int k = 0;
